@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+playlist recommendation: https://youtu.be/jElLSj29c7k
+
 <!--
 **sixicode/sixicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
