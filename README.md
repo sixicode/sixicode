@@ -29,6 +29,10 @@ X _ X
 まふまふ - 女の子になりたい
 https://www.youtube.com/watch?v=ucbx9we6EHk
 
+あさき - ここからよろしく大作戦143
+https://www.youtube.com/watch?v=QIWRA_4rLA0
+
+
 
 <!--
 **sixicode/sixicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
